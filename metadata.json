@@ -1,0 +1,6 @@
+{
+  "name": "SpendScope",
+  "description": "A polished, responsive personal finance and budget web app tailored for students, featuring income and expense tracking, category budgets, savings goals, subscription renewals, purchase planning, and bilingual English/Telugu support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
